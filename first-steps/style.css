@@ -1,0 +1,35 @@
+/* Das ist ein Kommentar */
+* {
+  box-sizing: border-box;
+}
+html {
+  background-color: aquamarine;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: red;
+}
+h1 {
+  color: rgb(255, 255, 255);
+ 
+  }
+p {
+  width: 600px;
+  color: #fff;
+  background-color: #000;
+  margin: 20px; /*margin ist der Aussenabstand von einem Element zum Nachbarn*/
+  padding: 10px; /* Innenabstand eines Elements zu*/
+  border: 3px greenyellow solid;
+}
+#Absatz5 {
+  background-color: rgb(36, 182, 36);
+  width: 700px;
+}
+
+.Absatz {
+  background-color: mediumaquamarine;
+  width: 400px;
+}
+
+/*weisser Text auf schwarzem Hintergrund Breite 600px*/
